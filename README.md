@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Sound engineering
 - 💞️ I’m looking to collaborate on Music
 - 📫 How to reach me Instagram (therubric_)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 sirshakaryal/sirshakaryal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
